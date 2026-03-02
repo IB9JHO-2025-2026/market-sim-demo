@@ -4,3 +4,5 @@ output/
 tests/IO/*
 !tests/IO/*output*
 !tests/IO/*input*
+src/file_handling.h
+data/*.csv
